@@ -1,4 +1,4 @@
-# TACKERMAN'S GITHUB PAGE
+# TEN'S GITHUB PAGE
 
 - 👋 Hi, I’m Ten, also known as FATPLOUGHMAN
 - 👀 I’m interested in soil science, data science and remote sensing.
