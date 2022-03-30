@@ -11,7 +11,15 @@
 
 ## How to contact me
 - I got a new reddit account recently! So as of right now, message me on reddit!
+- My email address is: <TODO>
 
+## Hobbies
+- I enjoy soccer from time to time
+- Pokemon enthusiast
+- Anime/manga enjoyer
+- AERITH STAN
+- Ex semi pro swordsman
+  
 <!---
 FATPLOUGHMAN/FATPLOUGHMAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
