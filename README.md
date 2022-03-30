@@ -21,4 +21,4 @@
 - Ex semi pro swordsman
   
 ## Random stuff
-- Owner of 2 cats - Martini and Choco
+- Owner of the 2 beautiful cats Martini and Choco
