@@ -3,6 +3,7 @@
 - 👋 Hi, I’m Ten, also known as FATPLOUGHMAN
 - 👀 I’m interested in soil science, data science and remote sensing.
 - 📫 How to reach me: Message me on Reddit - here's my account! https://www.reddit.com/user/fatploughman
+- 📫 Additionally: Message me on LinkedIn!
 
 ## What I do
 - Using ArcGIS to facilitate remote sensing
